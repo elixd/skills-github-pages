@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: First blog post"
 date: 2023-09.14
 ---
 
